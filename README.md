@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/RohihtVenkatMutyala/RohitVenkatMutyala/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/RohitVenkatMutyala/RohitVenkatMutyala/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---

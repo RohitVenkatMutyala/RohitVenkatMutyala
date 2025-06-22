@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rohith-venkat-mutyala-575421366/" target="_blank">
@@ -14,11 +12,11 @@
   </a>
 </div>
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey this Rohith Venkat Mutyala 👋</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm a Developer from India<br><br>- 🔭 I'm working as Full Stack Developer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I code and explore new technologies</p>
+<!--<p align="left">I'm a Developer from India<br><br>- 🔭 I'm working as Full Stack Developer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I code and explore new technologies</p>-->
 
 <h3 align="left">💻 Tech Stack:</h3>
 

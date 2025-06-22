@@ -69,8 +69,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/RohitVenkatMutyala/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/RohihtVenkatMutyala/RohitVenkatMutyala/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-[![](https://visitcount.itsvg.in/api?id=RohitVenkatMutyala&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=RohitVenkatMutyala&icon=0&color=0)](https://visitcount.itsvg.in)
 

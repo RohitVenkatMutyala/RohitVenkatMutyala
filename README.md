@@ -12,9 +12,15 @@
   </a>
 </div>
 
-<h1 align="center">Hey this Rohith Venkat Mutyala 👋</h1>
+<h1 align="center">Hello this is Rohith Venkat Mutyala 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%28MERN%29;MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js" alt="Typing SVG" />
+</p>
 
-<h3 align="left">👩‍💻 About Me</h3>
+
+
+
+<!--<h3 align="left">👩‍💻 About Me</h3>.-->
 
 <!--<p align="left">I'm a Developer from India<br><br>- 🔭 I'm working as Full Stack Developer<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I code and explore new technologies</p>-->
 
@@ -30,6 +36,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
 <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->

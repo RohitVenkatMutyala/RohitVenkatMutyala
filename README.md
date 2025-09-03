@@ -23,58 +23,34 @@
 
 <div align="center">
 
-### 🌟 *"Innovation meets Education - Where every second counts"* 🌟
+### 🎯 **Randoman Platform**
+#### *"Where Time Matters"*
 
 </div>
 
-### 🎯 **Randoman Platform** - *"Where Time Matters"*
-
-
-
-**The most comprehensive educational platform designed to help students excel in technical interviews and competitive programming.**
+**A comprehensive educational platform designed to help students excel in technical interviews and online assessments.**
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚡ **Core Features**
-- 🖥️ **Multi-language Compiler**
-  - C++, Python, Java support
-  - Real-time code execution
-  - Syntax highlighting & error detection
-- 🤖 **AI-Powered Code Optimization**
-  - Smart error correction
-  - Performance suggestions
-  - Code quality analysis
-- 📚 **Comprehensive Question Bank**
-  - 1000+ curated interview questions
-  - Company-wise question sets
-  - Difficulty-based categorization
-- 🔐 **Advanced Security**
-  - Docker sandbox environment  
-  - Secure code execution
-  - Anti-malware protection
+### ✨ **Core Features**
+- 🖥️ **Multi-language Compiler** - C++, Python, Java support
+- 🤖 **AI-Powered Code Correction** - Smart optimization suggestions  
+- 📚 **Interview Question Bank** - Extensive collection of previous questions
+- 🔒 **Secure Execution** - Docker sandbox environment
+- ☁️ **AWS Infrastructure** - 99.9% uptime guarantee
+- 💫 **Completely Free** - No hidden costs or subscriptions
 
 </td>
 <td width="50%">
 
-### 🎯 **Advanced Capabilities**
-- ☁️ **Enterprise-grade Infrastructure**
-  - AWS cloud deployment
-  - 99.9% uptime guarantee
-  - Auto-scaling architecture
-- ✅ **Hidden Test Cases Validation**
-  - Comprehensive edge case testing
-  - Performance benchmarking
-  - Memory usage analysis
-- 📊 **Smart Analytics**
-  - Code performance metrics
-  - Learning progress tracking
-  - Personalized recommendations
-- 🌐 **24/7 Availability**
-  - Global CDN deployment
-  - Lightning-fast response times
-  - Cross-platform compatibility
+### 🎯 **Key Benefits**
+- ⚡ **Real-time Code Execution** - Instant feedback
+- 🛡️ **Security First** - No malicious code allowed
+- 📊 **Performance Analytics** - Track your progress
+- 🌐 **24/7 Availability** - Always accessible
+- 🎓 **Student-Focused** - Built for learning success
 
 </td>
 </tr>
@@ -82,71 +58,38 @@
 
 <div align="center">
 
-### 🎉 **Key Benefits**
-| Feature | Benefit | Impact |
-|---------|---------|---------|
-| 🚀 **Real-time Execution** | Instant feedback on code | Faster learning curve |
-| 🛡️ **Security First** | Safe coding environment | Peace of mind |
-| 📈 **Progress Tracking** | Detailed analytics | Data-driven improvement |
-| 💰 **Completely FREE** | No hidden costs | Accessible to everyone |
-| 🎓 **Student-Focused** | Built for learners | Maximum educational value |
-
 **🌐 Platform Link:** [www.randoman.online](http://www.randoman.online)
-
-</div>
 
 ---
 
-### 🤝 **Team Collaboration Hub** - *"Unified Development Workflow"*
+### 🤝 **Team Collaboration Hub**
+#### *"Unified Development Workflow"*
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </div>
 
-**Revolutionary software collaboration platform that transforms how development teams work together.**
+**Advanced software collaboration platform that streamlines team communication and enhances development productivity.**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛠️ **Collaboration Features**
-- 👥 **Real-time Team Synchronization**
-  - Live code collaboration
-  - Instant updates across team
-  - Conflict resolution system
-- 📋 **Integrated Project Management**  
-  - Kanban boards
-  - Sprint planning tools
-  - Timeline visualization
-- 🔍 **Advanced Code Review**
-  - AI-powered review suggestions
-  - Automated testing integration
-  - Version control management
-- 📊 **Visual Workflow Tracking**
-  - Interactive project timelines
-  - Progress visualization
-  - Performance metrics
+
+- 📋 **Project Management** - Integrated workflow tools
+- 🔍 **Code Review System** - Built-in peer review
+
+- 🔄 **Cross-platform Support** - Works everywhere
+- 💡 **Idea Integration** - Seamless brainstorming
 
 </td>
 <td width="50%">
 
 ### 🎯 **Team Benefits**
-- 🚀 **Faster Development Cycles**
-  - Streamlined workflows
-  - Reduced bottlenecks
-  - Automated processes
-- 🎯 **Unified Team Vision**
-  - Clear project objectives
-  - Aligned development goals
-  - Transparent communication
-- 📈 **Enhanced Productivity**
-  - Reduced meeting overhead
-  - Better resource allocation
-  - Optimized team performance
-- 🔧 **Developer Experience**
-  - Intuitive interface design
-  - Minimal learning curve
-  - Built by developers, for developers
+- 🚀 **Faster Development** - Streamlined processes
+- 🎯 **Unified Vision** - Aligned team thinking
+- 📈 **Better Communication** - Clear project updates
+- ⚡ **Reduced Overhead** - Less time in meetings
+- 🔧 **Developer-friendly** - Built by developers, for developers
 
 </td>
 </tr>
@@ -160,49 +103,41 @@
 
 ---
 
-## 🎯 **Mission & Philosophy**
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+## 🎯 **Mission Statement**
 
-### 💭 *"Why settle for inefficiency when optimization is possible?"*
+> ### *"Why settle for inefficiency when optimization is possible?"*
+> 
+> **All Randoman products are completely FREE to use.** Our core philosophy drives everything we build.
+> 
+> The name **"Randoman"** embodies our mission: *Don't waste time on random activities that don't add value.*
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎯 **Our Mission**
-Making **quality education accessible** to everyone through innovative technology solutions.
-
-**All Randoman products are completely FREE** - because education should never be behind a paywall.
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 **Our Philosophy** 
-The name **"Randoman"** represents our core belief:
-
-*Don't waste time on random activities that don't add value.*
-
-Every feature we build serves a purpose.
-
-</td>
-<td align="center" width="33%">
-
-### 🌟 **Our Impact**
-- **1000+** students helped
-- **99.9%** platform uptime
-- **0** subscription fees
-- **∞** dedication to excellence
-
-</td>
-</tr>
-</table>
-
 ---
+
+## 💫 **About Me**
+
+```typescript
+const rohith = {
+  role: "Full Stack Developer & Tech Entrepreneur",
+  location: "India 🇮🇳",
+  company: "Founder of Randoman",
+  specialization: [
+    "MERN Stack Development",
+    "Educational Platform Development", 
+    "Team Collaboration Tools",
+    "Cloud Infrastructure",
+    "Product Strategy"
+  ],
+  currentFocus: "Building scalable educational platforms",
+  philosophy: "Code with purpose, design with passion, optimize for impact",
+  mission: "Making quality education accessible to everyone",
+  funFact: "Turning coffee into code since forever ☕"
+};
+```
+
 ---
 
 ## 💻 **Tech Arsenal**

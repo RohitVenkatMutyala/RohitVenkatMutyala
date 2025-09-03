@@ -29,9 +29,7 @@
 
 ### 🎯 **Randoman Platform** - *"Where Time Matters"*
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
-</div>
+
 
 **The most comprehensive educational platform designed to help students excel in technical interviews and competitive programming.**
 

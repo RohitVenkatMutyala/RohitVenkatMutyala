@@ -13,8 +13,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-
 </div>
 
 ---
@@ -32,15 +30,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ### ✨ **Core Features**
-- 🖥️ **Multi-language Compiler** - C++, Python, Java support
-- 🤖 **AI-Powered Code Correction** - Smart optimization suggestions  
-- 📚 **Interview Question Bank** - Extensive collection of previous questions
+- 🖥️ **Multi-language Compiler** - C++, Python, Java 
+- 🤖 **AI-Powered Code Optimizer** - Smart optimization suggestions  
+- 📚 **Interview Oriented** - Extensive collection of PYQ 
 - 🔒 **Secure Execution** - Docker sandbox environment
-- ☁️ **AWS Infrastructure** - 99.9% uptime guarantee
-- 💫 **Completely Free** - No hidden costs or subscriptions
+- ☁️ **AWS Infrastructure** - 90 % uptime guarantee
 
 </td>
 <td width="50%">
@@ -120,10 +117,9 @@
 ## 💫 **About Me**
 
 ```typescript
-const rohith = {
+const Rohit = {
   role: "Full Stack Developer & Tech Entrepreneur",
   location: "India 🇮🇳",
-  company: "Founder of Randoman",
   specialization: [
     "MERN Stack Development",
     "Educational Platform Development", 
@@ -134,7 +130,6 @@ const rohith = {
   currentFocus: "Building scalable educational platforms",
   philosophy: "Code with purpose, design with passion, optimize for impact",
   mission: "Making quality education accessible to everyone",
-  funFact: "Turning coffee into code since forever ☕"
 };
 ```
 
@@ -271,5 +266,8 @@ const rohith = {
 ### ⭐ **Don't forget to star repositories you find interesting!** ⭐
 
 *"Code is poetry written in logic"* 💻✨
+<br><br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
 
 </div>

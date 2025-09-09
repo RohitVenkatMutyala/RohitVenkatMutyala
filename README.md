@@ -1,7 +1,7 @@
 <div align="center">
   
 # ⚫ Rohith Venkat Mutyala 
-
+  
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Digital+Experiences;Tech+Entrepreneur;Always+Learning%2C+Always+Growing" alt="Typing Animation" />

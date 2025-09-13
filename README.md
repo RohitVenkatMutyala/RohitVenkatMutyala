@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚫ Rohith Venkat Mutyala 
+# ✨ Hello, this is Rohith Venkat Mutyala
   
 
 
@@ -217,33 +217,7 @@ const Rohit = {
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80">
-<h4><strong>🤝 Collaboration</strong></h4>
-<p>Open to partnering on innovative projects and building amazing solutions together</p>
-</td>
 
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80">
-<h4><strong>💡 Tech Discussions</strong></h4>
-<p>Always excited to share knowledge, learn from others, and discuss cutting-edge technologies</p>
-</td>
-
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294021-cc4e88b1-e7da-4dc9-bed6-165de2e63728.gif" width="80">
-<h4><strong>🚀 Product Development</strong></h4>
-<p>Let's build scalable, impactful products that solve real-world problems</p>
-</td>
-
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80">
-<h4><strong>☕ Virtual Coffee</strong></h4>
-<p>Love connecting with fellow developers and sharing experiences over virtual coffee</p>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -265,9 +239,9 @@ const Rohit = {
 
 ### ⭐ **Don't forget to star repositories you find interesting!** ⭐
 
-*"Code is poetry written in logic"* 💻✨
+
 <br><br/>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+
 
 
 </div>

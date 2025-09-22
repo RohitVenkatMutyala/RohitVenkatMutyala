@@ -35,7 +35,7 @@
 ### ✨ **Core Features**
 - 🖥️ **Multi-language Compiler** - C++, Python, Java 
 - 🤖 **AI-Powered Code Optimizer** - Smart optimization suggestions  
-- 📚 **Interview Oriented** - Extensive collection of PYQ 
+- 📚 **Real Time Sessions** -  Real time Collabrative sessions between the users in all modes (public , private) with the real time code editor and chat application include in the session 
 - 🔒 **Secure Execution** - Docker sandbox environment
 - ☁️ **AWS Infrastructure** - 90 % uptime guarantee
 

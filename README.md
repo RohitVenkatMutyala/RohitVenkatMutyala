@@ -1,139 +1,45 @@
 <div align="center">
   
-# ✨ Hello, this is Rohith Venkat Mutyala
-  
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Digital+Experiences;Tech+Entrepreneur;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-venkat-mutyala-575421366/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvenkatmutyala@gmail.com)
 
-<br/>
+  
 
-</div>
-
----
-
-## 🚀 **My Products & Platforms**
 
 <div align="center">
 
-### 🎯 **Randoman Platform**
-#### *"Where Time Matters"*
-
-</div>
-
-**A comprehensive educational platform designed to help students excel in technical interviews and online assessments.**
-
-<table>
-<tr>
-<td width="55%">
-
-### ✨ **Core Features**
-- 🖥️ **Multi-language Compiler** - C++, Python, Java 
-- 🤖 **AI-Powered Code Optimizer** - Smart optimization suggestions  
-- 📚 **Real Time Sessions** -  Real time Collabrative sessions between the users in all modes (public , private) with the real time code editor and chat application include in the session 
-- 🔒 **Secure Execution** - Docker sandbox environment
-- ☁️ **AWS Infrastructure** - 90 % uptime guarantee
-
-</td>
-<td width="50%">
-
-### 🎯 **Key Benefits**
-- ⚡ **Real-time Code Execution** - Instant feedback
-- 🛡️ **Security First** - No malicious code allowed
-- 📊 **Performance Analytics** - Track your progress
-- 🌐 **24/7 Availability** - Always accessible
-- 🎓 **Student-Focused** - Built for learning success
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-**🌐 Platform Link:** [www.randoman.online](http://www.randoman.online)
+# ✨ Hello, this is Rohith Venkat Mutyala
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Entrepreneur;Product+Innovator;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+
+
+
 
 ---
 
-### 🤝 **Team Collaboration Hub**
-#### *"Unified Development Workflow"*
+<br><br/>
+🔥 **I build technology that makes an impact — not just applications.**  
+⚙️ **Merging technical mastery with entrepreneurial vision to craft real-world solutions.**  
+🌐 **From real-time systems to AI-powered platforms — performance meets purpose.**  
+🚀 **Turning ideas into scalable, meaningful, and user-focused experiences.**  
+💎 **I don’t follow trends — I create the difference.**
+
+
+---
+
+## 🧠 **Featured Projects**
+
+<br><br/>
+🎯 [**Randoman Platform**](https://www.randoman.online) — An advanced educational platform helping students master coding and technical interviews through real-time collaboration, AI-powered optimization, and multi-language support.  
+
+🤝 [**Team Collaboration Hub**](https://uml.randoman.online) — A next-gen diagramming and teamwork tool with real-time sharing, AI assistance, and built-in chat — enabling teams to co-create, discuss, and build software projects seamlessly together.  
 
 </div>
 
-**Advanced software collaboration platform that streamlines team communication and enhances development productivity.**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ **Collaboration Features**
-
-- 📋 **Project Management** - Integrated workflow tools
-- 🔍 **Code Review System** - Built-in peer review
-
-- 🔄 **Cross-platform Support** - Works everywhere
-- 💡 **Idea Integration** - Seamless brainstorming
-
-</td>
-<td width="50%">
-
-### 🎯 **Team Benefits**
-- 🚀 **Faster Development** - Streamlined processes
-- 🎯 **Unified Vision** - Aligned team thinking
-- 📈 **Better Communication** - Clear project updates
-- ⚡ **Reduced Overhead** - Less time in meetings
-- 🔧 **Developer-friendly** - Built by developers, for developers
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🔗 Platform Link:** [https://uml.randoman.online](https://uml.randoman.online)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **Mission Statement**
-
-> ### *"Why settle for inefficiency when optimization is possible?"*
-> 
-> **All Randoman products are completely FREE to use.** Our core philosophy drives everything we build.
-> 
-> The name **"Randoman"** embodies our mission: *Don't waste time on random activities that don't add value.*
-
-</div>
-
----
-
-## 💫 **About Me**
-
-```typescript
-const Rohit = {
-  role: "Full Stack Developer & Tech Entrepreneur",
-  location: "India 🇮🇳",
-  specialization: [
-    "MERN Stack Development",
-    "Educational Platform Development", 
-    "Team Collaboration Tools",
-    "Cloud Infrastructure",
-    "Product Strategy"
-  ],
-  currentFocus: "Building scalable educational platforms",
-  philosophy: "Code with purpose, design with passion, optimize for impact",
-  mission: "Making quality education accessible to everyone",
-};
-```
-
----
+<br><br/>
 
 ## 💻 **Tech Arsenal**
 
@@ -144,31 +50,36 @@ const Rohit = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frontend Technologies**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
 ### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Zookeeper](https://img.shields.io/badge/Apache%20Zookeeper-4E9A06?style=for-the-badge&logo=apache&logoColor=white)
 
 ### **Database & Cloud Infrastructure**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+### **Frontend Technologies**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
+<br><br/>
 <div align="center">
 
 ## 📊 **GitHub Analytics**
@@ -221,6 +132,21 @@ const Rohit = {
 
 ---
 
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### ⭐ **Don't forget to star repositories you find interesting!** ⭐
+
+
+<br><br/>
+
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📧 **Ready to Connect?**
@@ -232,15 +158,6 @@ const Rohit = {
 
 </div>
 
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### ⭐ **Don't forget to star repositories you find interesting!** ⭐
-
-
-<br><br/>
 
 
 

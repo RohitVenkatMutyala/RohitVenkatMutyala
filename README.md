@@ -91,7 +91,7 @@
 
 ## 🔥 **Contribution Streak**
 
-<img src="https://streak-stats.demolab.com?user=RohitVenkatMutyala&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RohitVenkatMutyala&theme=tokyonight&hide_border=true&border_radius=10" alt="🤷‍♂️" />
 
 <br/><br/>
 

@@ -24,7 +24,7 @@
 ⚙️ **Merging technical mastery with entrepreneurial vision to craft real-world solutions.**  
 🌐 **From real-time systems to AI-powered platforms — performance meets purpose.**  
 🚀 **Turning ideas into scalable, meaningful, and user-focused experiences.**  
-💎 **I don’t follow trends — I create the difference.**
+💎 **Make a distinct impact by taking full ownership of product development and delivery.**
 
 
 ---
@@ -32,9 +32,14 @@
 ## 🧠 **Featured Projects**
 
 <br><br/>
-🎯 [**Randoman Platform**](https://www.randoman.online) — An advanced educational platform helping students master coding and technical interviews through real-time collaboration, AI-powered optimization, and multi-language support.  
+🎯 [**Online Judge Platform**](https://www.therandoman.buzz) — An advanced educational platform helping students master coding and technical interviews through real-time collaboration, AI-powered optimization, and multi-language support.  
 
-🤝 [**Team Collaboration Hub**](https://uml.randoman.online) — A next-gen diagramming and teamwork tool with real-time sharing, AI assistance, and built-in chat — enabling teams to co-create, discuss, and build software projects seamlessly together.  
+🤝 [**Team Collaboration Hub**](https://uml.therandoman.buzz) — A next-gen diagramming and teamwork tool with real-time sharing, AI assistance, and built-in chat — enabling teams to co-create, discuss, and build software projects seamlessly together.  
+
+
+📶 [**Network Platform**](https://network.therandoman.buzz) - Peer-to-Peer Communication Platform – Built for secure, on-premises communication.
+
+ 🚀 [**Viz-Runner Platform**](https://marketplace.visualstudio.com/items?itemName=RohithVenkatMutyala.viz-runner) The viz-runner extension lets you see exactly how a computer reads and converts your code into software, step by step. It acts like an X-ray tool for programmers, breaking down hidden background processes into simple, visual stages.
 
 </div>
 
